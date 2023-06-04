@@ -1,0 +1,17 @@
+D:\Dev\SoftUni\CSharp-Entity-Framework\06.Advanced-Querying\BookShop-6.0\BookShop.Initializer\bin\Debug\net6.0\BookShop.Initializer.deps.json
+D:\Dev\SoftUni\CSharp-Entity-Framework\06.Advanced-Querying\BookShop-6.0\BookShop.Initializer\bin\Debug\net6.0\BookShop.Initializer.dll
+D:\Dev\SoftUni\CSharp-Entity-Framework\06.Advanced-Querying\BookShop-6.0\BookShop.Initializer\bin\Debug\net6.0\BookShop.Initializer.pdb
+D:\Dev\SoftUni\CSharp-Entity-Framework\06.Advanced-Querying\BookShop-6.0\BookShop.Initializer\bin\Debug\net6.0\BookShop.Data.dll
+D:\Dev\SoftUni\CSharp-Entity-Framework\06.Advanced-Querying\BookShop-6.0\BookShop.Initializer\bin\Debug\net6.0\BookShop.Models.dll
+D:\Dev\SoftUni\CSharp-Entity-Framework\06.Advanced-Querying\BookShop-6.0\BookShop.Initializer\bin\Debug\net6.0\BookShop.Data.pdb
+D:\Dev\SoftUni\CSharp-Entity-Framework\06.Advanced-Querying\BookShop-6.0\BookShop.Initializer\bin\Debug\net6.0\BookShop.Models.pdb
+D:\Dev\SoftUni\CSharp-Entity-Framework\06.Advanced-Querying\BookShop-6.0\BookShop.Initializer\obj\Debug\net6.0\BookShop.Initializer.csproj.AssemblyReference.cache
+D:\Dev\SoftUni\CSharp-Entity-Framework\06.Advanced-Querying\BookShop-6.0\BookShop.Initializer\obj\Debug\net6.0\BookShop.Initializer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dev\SoftUni\CSharp-Entity-Framework\06.Advanced-Querying\BookShop-6.0\BookShop.Initializer\obj\Debug\net6.0\BookShop.Initializer.AssemblyInfoInputs.cache
+D:\Dev\SoftUni\CSharp-Entity-Framework\06.Advanced-Querying\BookShop-6.0\BookShop.Initializer\obj\Debug\net6.0\BookShop.Initializer.AssemblyInfo.cs
+D:\Dev\SoftUni\CSharp-Entity-Framework\06.Advanced-Querying\BookShop-6.0\BookShop.Initializer\obj\Debug\net6.0\BookShop.Initializer.csproj.CoreCompileInputs.cache
+D:\Dev\SoftUni\CSharp-Entity-Framework\06.Advanced-Querying\BookShop-6.0\BookShop.Initializer\obj\Debug\net6.0\BookShop.Initializer.csproj.CopyComplete
+D:\Dev\SoftUni\CSharp-Entity-Framework\06.Advanced-Querying\BookShop-6.0\BookShop.Initializer\obj\Debug\net6.0\BookShop.Initializer.dll
+D:\Dev\SoftUni\CSharp-Entity-Framework\06.Advanced-Querying\BookShop-6.0\BookShop.Initializer\obj\Debug\net6.0\refint\BookShop.Initializer.dll
+D:\Dev\SoftUni\CSharp-Entity-Framework\06.Advanced-Querying\BookShop-6.0\BookShop.Initializer\obj\Debug\net6.0\BookShop.Initializer.pdb
+D:\Dev\SoftUni\CSharp-Entity-Framework\06.Advanced-Querying\BookShop-6.0\BookShop.Initializer\obj\Debug\net6.0\ref\BookShop.Initializer.dll
